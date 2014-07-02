@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Browse_Glass_HDD"
+        android:title="@string/Browse_Device"
+        android:icon="@drawable/ic_photo_50"
+        />
+    <item
+        android:id="@+id/Take_Photo"
+        android:title="@string/take_photo"
+        android:icon="@drawable/ic_camera_50" />
+    <item
+        android:id="@+id/Browse_Google"
+        android:title="@string/Search_Image"
+        android:icon="@drawable/ic_google_50"
+        />
+    <item
+        android:id="@+id/start_About"
+        android:title="@string/start_About"
+        android:icon="@drawable/ic_help_50"
+        />
+
+    <item
+        android:id="@+id/Tutorial"
+        android:title="@string/start_Tutorial"
+        android:icon="@drawable/ic_help_50"
+        />
+    <item
+        android:id="@+id/Exit_ArtAssist"
+        android:title="@string/Exit"
+        android:icon="@drawable/ic_no_50"
+        />
+
+</menu>
