@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuperDemonSlayer</string>
+    <string name="title_activity_intro">Game Introduction</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Demon_Appears">A Demon has appeared!</string>
+    <string name="theDemon">The Demon</string>
+    <string name="leftSwipe">Left side swipe</string>
+    <string name="rightSwipe">Right side swipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="win_and_exit">You win! Swipe down to exit</string>
+    <string name="damage_indicator">damage!</string>
+    <string name="title_activity_store">Store Activity</string>
+    <string name="swipe_forward">Swipe forward to continue</string>
+    <string name="what_is_your_name">What is your name?</string>
+
+</resources>
